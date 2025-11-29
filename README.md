@@ -117,10 +117,11 @@
 
 ---
 
-## 🗂️ Activity Graph  
+## 🗂️ Activity (Candlestick style)
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vikki7007&bg_color=0f0f0f&color=ff0099&line=00eaff&point=ffffff&area=true&hide_border=true&radius=8" width="50%"/>
+  <img src="https://raw.githubusercontent.com/Vikki7007/Vikki7007/main/activity_candlestick.png" alt="Activity Candlestick" width="95%" />
 </p>
+
 
 
 
