@@ -119,8 +119,9 @@
 
 ## 🗂️ Activity Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vikki7007&custom_title=Vikas%20Bhardwaj's%20Contribution%20Graph&bg_color=0D1117&color=39D353&line=39D353&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vikki7007&bg_color=0f0f0f&color=ff0099&line=00eaff&point=ffffff&area=true&hide_border=true&radius=8" width="95%"/>
 </p>
+
 
 
 ---
