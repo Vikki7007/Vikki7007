@@ -90,11 +90,23 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Quick View)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vikki7007&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikki7007&layout=compact&theme=tokyonight" height="150"/>
+  <!-- Fallback badges so nothing is broken -->
+  <a href="https://github.com/Vikki7007">
+    <img src="https://img.shields.io/badge/GitHub-Vikki7007-181717?logo=github&style=flat-square" alt="GitHub" />
+  </a>
+  <a href="https://github.com/Vikki7007?tab=repositories">
+    <img src="https://img.shields.io/badge/Top%20Repo-View-blue?style=flat-square" alt="Top repo" />
+  </a>
+  <a href="https://github.com/Vikki7007?tab=followers">
+    <img src="https://img.shields.io/github/followers/Vikki7007?label=Followers&style=flat-square" alt="Followers" />
+  </a>
+  <a href="https://github.com/Vikki7007">
+    <img src="https://img.shields.io/badge/Contributions-View-ff69b4?style=flat-square" alt="Contributions" />
+  </a>
 </p>
+
 
 ---
 
