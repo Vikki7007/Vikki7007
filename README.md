@@ -5,7 +5,7 @@
   <img src="https://github.com/Vikki7007/Vikki7007/blob/main/banner.gif" width="100%" alt="Banner (optional)" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vikki7007/Vikki7007/main/header.avif alt="Header" />
+  <img src="https://raw.githubusercontent.com/Vikki7007/Vikki7007/main/header.png alt="Header" />
 </p>
 <h1 align="center">Hi 👋, I'm <strong>Vikas Bhardwaj</strong></h1>
 <h3 align="center">AI/ML Engineer • LLMs • RAG • TTS • OCR • Computer Vision</h3>
