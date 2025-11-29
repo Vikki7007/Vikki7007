@@ -119,7 +119,7 @@
 
 ## 🗂️ Activity Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vikki7007&bg_color=0f0f0f&color=ff0099&line=00eaff&point=ffffff&area=true&hide_border=true&radius=8" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vikki7007&bg_color=0f0f0f&color=ff0099&line=00eaff&point=ffffff&area=true&hide_border=true&radius=8" width="50%"/>
 </p>
 
 
