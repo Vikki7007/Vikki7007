@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/Vikki7007/Vikki7007/main/header.png" alt="Header Banner" width="50%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm <strong>Vikas Bhardwaj</strong></h1>
+<!-- <h1 align="center">Hi 👋, I'm <strong>Vikas Bhardwaj</strong></h1> -->
 <h3 align="center">AI/ML Engineer • LLMs • RAG • TTS • OCR • Computer Vision</h3>
 
 ---
