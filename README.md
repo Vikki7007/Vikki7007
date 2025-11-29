@@ -117,10 +117,11 @@
 
 ---
 
-## 🗂️ Activity Graph
+## 🗂️ Activity Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vikki7007&theme=react-dark&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vikki7007&custom_title=Vikas%20Bhardwaj's%20Contribution%20Graph&bg_color=0D1117&color=39D353&line=39D353&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 </p>
+
 
 ---
 
